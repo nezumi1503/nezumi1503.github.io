@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 title                    : "Michal Hejduk / Personal Website"
 title_separator          : "-"
 name                     : &name "Michal Hejduk"
@@ -80,17 +80,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Michal Hejduk"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Studying ultra-low energy collisions"
   location         : "Oxford, UK"
-  employer         :
+  employer         : "University of Oxford"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.uk/citations?user=5c_eFfwAAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/"
   uri              :
-  bitbucket        :
+  bitbucket        : "https://bitbucket.org/%7B538bcc89-a896-43d4-ac57-da418dc47190%7D/"
   codepen          :
   dribbble         :
   flickr           :
