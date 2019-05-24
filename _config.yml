@@ -90,7 +90,7 @@ author:
   email            :
   researchgate     : "https://www.researchgate.net/"
   uri              :
-  bitbucket        : "https://bitbucket.org/%7B538bcc89-a896-43d4-ac57-da418dc47190%7D/"
+  bitbucket        : #"https://bitbucket.org/%7B538bcc89-a896-43d4-ac57-da418dc47190%7D/"
   codepen          :
   dribbble         :
   flickr           :
