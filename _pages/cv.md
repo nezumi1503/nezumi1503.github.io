@@ -18,16 +18,16 @@ Education
 Work experience
 ======
 * 2017-present: Post-Doctoral Research Associate
-  * Heazlewood Group, Department of Chemistry, University of Oxford
+  * [Heazlewood Group](http://heazlewood.chem.ox.ac.uk/), Department of Chemistry, University of Oxford
   * Duties included: Ultra-cold chemistry in ion traps, Zeeman deceleration of radicals
 
 * 2014-2017: Academic co-worker with scientific duties
-  * Freiburg Cluster Group, University of Freiburg
+  * [Freiburg Cluster Group](http://cluster.physik.uni-freiburg.de/), University of Freiburg
   * Duties included: Experimental investigation of physical properties of water cluster anions. Chief-tutor for classical and quantum mechanics for chemistry, biology and physics students.
   * Supervisor: Professor Bernd von Issendorff
 
 * 2010-2013: Non-academic researcher
-  * Department of Surface and Plasma Science, Charles University in Prague
+  * [Department of Surface and Plasma Science](https://physics.mff.cuni.cz/kfpp/), Charles University in Prague
   * Duties included: Studies of ion-electron recombination processes and ion-neutral reactions in low temperature plasma.
   * Supervisor: Professor Juraj Glosík
 
@@ -42,7 +42,7 @@ org.uk) poster competition held at the British Parliament, poster title:
 “Cold Quantum Chemistry Machine”
 
 *2008-2010
-  * Grant award from Charles University Grant Agency (GAUK). Project title: “Para-hydrogen Converter and State Selected Recombination of H+ 3 Ions”. Internal university funding scheme only for student proposers. Maximum budget 300,000 CZK (approx. £10,000).
+  * Grant award from [Charles University Grant Agency (GAUK)](https://cuni.cz/UKEN-753.html). Project title: “Para-hydrogen Converter and State Selected Recombination of H+ 3 Ions”. Internal university funding scheme only for student proposers. Maximum budget 300,000 CZK (approx. £10,000).
 
 Publications
 ======
