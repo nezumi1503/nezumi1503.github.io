@@ -41,8 +41,8 @@ research poster (innovative design category)
 org.uk) poster competition held at the British Parliament, poster title:
 “Cold Quantum Chemistry Machine”
 
-*2008-2010
-  * Grant award from [Charles University Grant Agency (GAUK)](https://cuni.cz/UKEN-753.html). Project title: “Para-hydrogen Converter and State Selected Recombination of H+ 3 Ions”. Internal university funding scheme only for student proposers. Maximum budget 300,000 CZK (approx. £10,000).
+* 2008-2010
+  * Grant award from [Charles University Grant Agency (GAUK)](https://cuni.cz/UKEN-753.html). Project title: “Para-hydrogen Converter and State Selected Recombination of H3+ Ions”. Internal university funding scheme only for student proposers. Maximum budget 300,000 CZK (approx. £10,000).
 
 Publications
 ======
@@ -75,7 +75,7 @@ Administrative Activities and Professional Memberships
 * 2018-present
   * Member of the Royal Society of Chemistry
 * 2017
-  * Editor for Research Careers - Options Beyond Academia, the website about career transitions out of academia
+  * Editor for [Research Careers - Options Beyond Academia](http://research-careers.org/), the website about career transitions out of academia
 
 Career Breaks
 ======
