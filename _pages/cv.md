@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Baccalaureus in General Physics, Charles University, 2007
+* Magister in Physics of Plasma and Ionised Media, Charles University, 2009
+* Ph.D in Physics of Plasma and Ionised Media, Charles University, 2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-present: Post-Doctoral Research Associate
+  * Heazlewood Group, Department of Chemistry, University of Oxford
+  * Duties included: Ultra-cold chemistry in ion traps, Zeeman deceleration of radicals
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* 2014-2017: Academic co-worker with scientific duties
+  * Freiburg Cluster Group, University of Freiburg
+  * Duties included: Experimental investigation of physical properties of water cluster anions. Chief-tutor for classical and quantum mechanics for chemistry, biology and physics students.
+  * Supervisor: Professor Bernd von Issendorff
+
+* 2010-2013: Non-academic researcher
+  * Department of Surface and Plasma Science, Charles University in Prague
+  * Duties included: Studies of ion-electron recombination processes and ion-neutral reactions in low temperature plasma.
+  * Supervisor: Professor Juraj Glosík
+
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2018
+  * [OxTALENT](https://www.digitaleducation.ox.ac.uk/oxtalent) award for
+research poster (innovative design category)
+  * Award for Excellence, Department of Chemistry, University of Oxford
+  * Selected to participate in the [STEM4Britain](http://www.setforbritain.
+org.uk) poster competition held at the British Parliament, poster title:
+“Cold Quantum Chemistry Machine”
+
+*2008-2010
+  * Grant award from Charles University Grant Agency (GAUK). Project title: “Para-hydrogen Converter and State Selected Recombination of H+ 3 Ions”. Internal university funding scheme only for student proposers. Maximum budget 300,000 CZK (approx. £10,000).
 
 Publications
 ======
@@ -53,7 +61,25 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Courses Attended
 ======
-* Currently signed in to 43 different slack teams
+* An Introduction to Project Management
+* Time Management
+* Enterprising Researcher
+* Telling stories that matter: communicating your research through story
+- organised by the University of Oxford
+
+Administrative Activities and Professional Memberships
+======
+* 2018-present
+  * Member of the Royal Society of Chemistry
+* 2017
+  * Editor for Research Careers - Options Beyond Academia, the website about career transitions out of academia
+
+Career Breaks
+======
+* 10/2013-01/2014
+  * I worked as a freelance [Japanese/Czech interpreter](https://archiv.ihned.cz/c1-19198280-michal-hejduk-v-japonske-skole-jsem-nenavidel-kaligrafii) and translator
+* 2014-2017
+  * Part-time at the University of Freiburg
