@@ -58,9 +58,9 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2014-2016
+  * Chief tutor of Physics for students of pedagogy (2014), Experimental Physics
+(Quantum Mechanics) for students of physics (2015, 2016), Introduction to Physics for students of natural sciences (2015). University of Freiburg
 
 Courses Attended
 ======
