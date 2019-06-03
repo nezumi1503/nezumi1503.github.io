@@ -12,4 +12,4 @@ The poster was checked from factual and grammatical points of views by native sp
 
 I used VariCAD to draw the apparatus and exported and GIMP to modify a file exported from the CAD program. The potential energy surface (“the pudding”) was plotted and rendered using Mayavi. Other vector graphics, including the title, were made in Inkscape. All pictures were put together in the desktop publishing application Scribus. The choice of the tools is mainly given by the operating system I am using for every day tasks (Linux).
 
-Download the version with a better resolution [here](files/OxTALENTPoster.pdf).
+Download the version with a better resolution [here](/files/OxTALENTPoster.pdf).
