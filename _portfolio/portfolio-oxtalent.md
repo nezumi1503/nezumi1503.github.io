@@ -1,6 +1,6 @@
 ---
 title: "Cold Quantum Chemistry Machine"
-excerpt: "OxTALENT 2018 Winner in &quot;Research poster - innovative design" category&quot;. <br/><img src='/images/OxTALENTPosterImg.jpg'>"
+excerpt: "OxTALENT 2018 Winner in &quot;Research poster - innovative design&quot; category. <br/><img src='/images/OxTALENTPosterImg.jpg'>"
 collection: portfolio
 ---
 
