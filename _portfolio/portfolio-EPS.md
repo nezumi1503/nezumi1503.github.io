@@ -4,6 +4,6 @@ excerpt: "European Physical Society Conference on Plasma Physics, Prague 2018 <b
 collection: portfolio
 ---
 
-The poster was made for (European Physical Society Conference on Plasma Physics, Prague 2018)[https://eps2018.eli-beams.eu/en/].
+The poster was made for [European Physical Society Conference on Plasma Physics, Prague 2018](https://eps2018.eli-beams.eu/en/).
 
 Download the version with a better resolution [here](/files/EPSposter.pdf).
