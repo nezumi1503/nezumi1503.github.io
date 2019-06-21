@@ -15,3 +15,7 @@ About me
 I am a [post-doctoral research associate](http://www.chem.ox.ac.uk/dr-michal-hejduk.aspx) in the [Heazlewood Group](http://heazlewood.chem.ox.ac.uk/) at the Departmenf of Chemistry of the University of Oxford (UK).
 
 Previously, I was a post-doctoral researcher at the [Institute of Physics](https://www.physik.uni-freiburg.de/) of the University of Freiburg (Germany). I gained my doctoral degree at the [Faculty of Mathematics and Physics](https://www.mff.cuni.cz) of Charles University (Czech Republic).
+
+News
+======
+21.06.2019 - New entries in Portfolio.
