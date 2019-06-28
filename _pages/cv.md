@@ -37,8 +37,7 @@ Awards
   * [OxTALENT](https://www.digitaleducation.ox.ac.uk/oxtalent) award for
 research poster (innovative design category)
   * Award for Excellence, Department of Chemistry, University of Oxford
-  * Selected to participate in the [STEM4Britain](http://www.setforbritain.
-org.uk) poster competition held at the British Parliament, poster title:
+  * Selected to participate in the [STEM4Britain](http://www.setforbritain.org.uk) poster competition held at the British Parliament, poster title:
 “Cold Quantum Chemistry Machine”
 
 * 2008-2010
