@@ -36,7 +36,7 @@ Awards
 * 2018
   * [OxTALENT](https://www.digitaleducation.ox.ac.uk/oxtalent) award for
 research poster (innovative design category)
-  * Award for Excellence, Department of Chemistry, University of Oxford
+  * [Award for Excellence](https://www.admin.ox.ac.uk/personnel/reward/rewardandrecognitionscheme/awardsexcell/), Department of Chemistry, University of Oxford
   * Selected to participate in the [STEM4Britain](http://www.setforbritain.org.uk) poster competition held at the British Parliament, poster title:
 “Cold Quantum Chemistry Machine”
 
