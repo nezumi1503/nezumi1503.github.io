@@ -61,6 +61,7 @@ Courses Attended
 * Time Management
 * Enterprising Researcher
 * Telling stories that matter: communicating your research through story
+
 These are courses organised by the University of Oxford. In addition to this, I also took a course on [Toyota Production System](https://en.wikipedia.org/wiki/Toyota_Production_System) at ASMO Czech, s.r.o. when I was working there as an interpreter.
 
 Administrative Activities and Professional Memberships
