@@ -61,7 +61,7 @@ Courses Attended
 * Time Management
 * Enterprising Researcher
 * Telling stories that matter: communicating your research through story
-- organised by the University of Oxford
+\- organised by the University of Oxford
 
 Administrative Activities and Professional Memberships
 ======
