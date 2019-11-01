@@ -11,15 +11,20 @@ redirect_from:
 
 Education
 ======
-* Baccalaureus in General Physics, Charles University, 2007
-* Magister in Physics of Plasma and Ionised Media, Charles University, 2009
 * Ph.D in Physics of Plasma and Ionised Media, Charles University, 2013
+  * Thesis title: Ion-molecule reactions and electron-ion recombination at cryogenic temperatures
+  * Studies of ion-electron recombination processes and ion-neutral reactions in low temperature plasma. Cavity Ring-Down Spectroscopy (CRDS).
+  * Supervisor: Prof. Juraj Glosík in cooperation with Prof. Dieter Gerlich
+* Magister in Physics of Plasma and Ionised Media, Charles University, 2009
+* Baccalaureus in General Physics, Charles University, 2007
+
 
 Work experience
 ======
 * 2017-present: Post-Doctoral Research Associate
   * [Heazlewood Group](http://heazlewood.chem.ox.ac.uk/), Department of Chemistry, University of Oxford
-  * Duties included: Ultra-cold chemistry in ion traps, Zeeman deceleration of radicals
+  * Duties included: Ultra cold chemistry in ion traps, Zeeman deceleration of radicals. Supervision of undergraduate and graduate students.
+  * Supervisors: Dr. Brianna Heazlewood and [Prof. Tim Softley, FRS (Fellow of the Royal Society)](https://royalsociety.org/people/timothy-softley-13845/)
 
 * 2014-2017: Academic co-worker with scientific duties
   * [Freiburg Cluster Group](http://cluster.physik.uni-freiburg.de/), University of Freiburg
@@ -49,8 +54,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Teaching and Supervision of Students
 ======
+* 2017-present
+  * Supervision of 2 PhD students, 2 master degree students at the University of Oxford.
+    * PhD student 1: Zeeman deceleration and velocity filtering of hydrogen atoms (currently a [Lindemann Fellow](https://jila.colorado.edu/yelabs/people/research-associates) at Jun Ye Group in JILA.)
+    * PhD student 2: Ultra-cold collisions of polar molecules with ions. (Secured a support from three different institutions in the UK and Greece.)
+    * Master degree students 1 & 2: Optimisation of operation of a Zeeman decelerator using an evolutionary algorithm.
+    * I also acted as an advisor to 2 junior post-docs.
+    
 * 2014-2016
   * Chief tutor of Physics for students of pedagogy (2014), Experimental Physics
 (Quantum Mechanics) for students of physics (2015, 2016), Introduction to Physics for students of natural sciences (2015). University of Freiburg
@@ -75,5 +87,4 @@ Career Breaks
 ======
 * 10/2013-01/2014
   * I worked as a freelance [Japanese/Czech interpreter](https://archiv.ihned.cz/c1-19198280-michal-hejduk-v-japonske-skole-jsem-nenavidel-kaligrafii) and translator
-* 2014-2017
-  * Part-time at the University of Freiburg
+
