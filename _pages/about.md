@@ -18,6 +18,8 @@ Previously, I was a post-doctoral researcher at the [Institute of Physics](https
 
 News
 ======
+17.12.2019 - New article published in Review of Scientific Instruments
+
 15.07.2019 - New blog post.
 
 21.06.2019 - New entries in Portfolio.
