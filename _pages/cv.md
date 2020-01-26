@@ -48,11 +48,6 @@ research poster (innovative design category)
 * 2008-2010
   * Grant award from [Charles University Grant Agency (GAUK)](https://cuni.cz/UKEN-753.html). Project title: “Para-hydrogen Converter and State Selected Recombination of H3+ Ions”. Internal university funding scheme only for student proposers. Maximum budget 300,000 CZK (approx. £10,000).
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Teaching and Supervision of Students
 ======
@@ -89,3 +84,23 @@ Career Breaks
 * 10/2013-01/2014
   * I worked as a freelance [Japanese/Czech interpreter](https://archiv.ihned.cz/c1-19198280-michal-hejduk-v-japonske-skole-jsem-nenavidel-kaligrafii) and translator
 
+Selected Grants
+======
+
+* [John Fell Oxford University Press Research Fund](https://researchsupport.admin.ox.ac.uk/funding/internal/jff)
+  * Role: Co-PI
+  * Title: Experimental realisation of a two-frequency Paul trap
+  * Amount: 7500 GBP
+  * Period: 01-04/2020
+
+* [Student Project Grant at Charles University in Prague](https://cuni.cz/UKEN-753.html)
+  * Role: PI
+  * Title: Para-hydrogen converter and state-selective recombination of H<sub>3</sub><sup>+</sup> ions
+  * Amount: 100 000 CZK
+  * Period: 2008-2011
+  
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
