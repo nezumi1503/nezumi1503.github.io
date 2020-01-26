@@ -18,6 +18,8 @@ Previously, I was a post-doctoral researcher at the [Institute of Physics](https
 
 News
 ======
+01.01.2020 - [John Fell Fund](https://www.mpls.ox.ac.uk/internal-research-funding/research-funding/jff) (7500 GBP) for development of a two-frequency Paul trap acquired.
+
 17.12.2019 - New article published in Review of Scientific Instruments
 
 15.07.2019 - New blog post.
