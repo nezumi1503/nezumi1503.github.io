@@ -21,7 +21,10 @@ Education
 
 Work experience
 ======
-* 2017-present: Post-Doctoral Research Associate
+* 2020-present: Optical Engineer
+  * [Valeo autoklimatizace k.s.](https://valeo.cz/en/)
+
+* 2017-2020: Post-Doctoral Research Associate
   * [Heazlewood Group](http://heazlewood.chem.ox.ac.uk/), Department of Chemistry, University of Oxford
   * Duties included: Ultra cold chemistry in ion traps, Zeeman deceleration of radicals. Supervision of undergraduate and graduate students.
   * Supervisors: Dr. Brianna Heazlewood and [Prof. Tim Softley, FRS (Fellow of the Royal Society)](https://royalsociety.org/people/timothy-softley-13845/)
@@ -52,7 +55,7 @@ research poster (innovative design category)
 Teaching and Supervision of Students
 ======
 * 2017-present
-  * Supervision of 2 PhD students, 2 master degree students at the University of Oxford.
+  * Informal supervision of 2 PhD students, 2 master degree students at the University of Oxford.
     * PhD student 1: Zeeman deceleration and velocity filtering of hydrogen atoms (currently a [Lindemann Fellow](https://jila.colorado.edu/yelabs/people/research-associates) at Jun Ye Group in JILA.)
     * PhD student 2: Ultra-cold collisions of polar molecules with ions. (Secured a support from three different institutions in the UK and Greece.)
     * Master degree students 1 & 2: Optimisation of operation of a Zeeman decelerator using an evolutionary algorithm.
