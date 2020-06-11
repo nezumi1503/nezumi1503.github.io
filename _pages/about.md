@@ -19,7 +19,7 @@ About me
 ======
 Currently, I am working as an optical engineer in the automitive industry.
 
-In years 2017--2020, I was a [post-doctoral research associate](http://www.chem.ox.ac.uk/dr-michal-hejduk.aspx) in the [Heazlewood Group](http://heazlewood.chem.ox.ac.uk/) at the Departmenf of Chemistry of the University of Oxford (UK).
+In years 2017—2020, I was a [post-doctoral research associate](http://www.chem.ox.ac.uk/dr-michal-hejduk.aspx) in the [Heazlewood Group](http://heazlewood.chem.ox.ac.uk/) at the Departmenf of Chemistry of the University of Oxford (UK).
 
 Previously, I was a post-doctoral researcher at the [Institute of Physics](https://www.physik.uni-freiburg.de/) of the University of Freiburg (Germany). I gained my doctoral degree at the [Faculty of Mathematics and Physics](https://www.mff.cuni.cz) of Charles University (Czech Republic).
 
