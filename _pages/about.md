@@ -25,6 +25,8 @@ Previously, I was a post-doctoral researcher at the [Institute of Physics](https
 
 News
 ======
+01.12.2020 - Hejduk Group at Charles University in Prague founded, funded by [PRIMUS Research Programme](https://cuni.cz/UKEN-558.html)
+
 15.05.2020 - Became an Optical Engineer in [Valeo autoklimatizace k.s.](https://valeo.cz/en/)
 
 01.01.2020 - [John Fell Fund](https://www.mpls.ox.ac.uk/internal-research-funding/research-funding/jff) (7500 GBP) for development of a two-frequency Paul trap acquired.
