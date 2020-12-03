@@ -51,7 +51,7 @@ research poster (innovative design category)
   
 Teaching and Supervision of Students
 ======
-* 2017-present
+* 2017-2020
   * Informal supervision of 2 PhD students, 2 master degree students at the University of Oxford.
     * PhD student 1: Zeeman deceleration and velocity filtering of hydrogen atoms (currently a [Lindemann Fellow](https://jila.colorado.edu/yelabs/people/research-associates) at Jun Ye Group in JILA.)
     * PhD student 2: Ultra-cold collisions of polar molecules with ions. (Secured a support from three different institutions in the UK and Greece.)
