@@ -48,9 +48,6 @@ research poster (innovative design category)
   * Selected to participate in the [STEM4Britain](http://www.setforbritain.org.uk) poster competition held at the British Parliament, poster title:
 “Cold Quantum Chemistry Machine”
 
-* 2008-2010
-  * Grant award from [Charles University Grant Agency (GAUK)](https://cuni.cz/UKEN-753.html). Project title: “Para-hydrogen Converter and State Selected Recombination of H3+ Ions”. Internal university funding scheme only for student proposers. Maximum budget 300,000 CZK (approx. £10,000).
-
   
 Teaching and Supervision of Students
 ======
@@ -89,12 +86,17 @@ Career Breaks
 
 Selected Grants
 ======
+* [PRIMUS Research Programme](https://cuni.cz/UKEN-558.html)
+  * Role: PI
+  * Title: New electron-ion trap for studies of particle dynamics in strongly coupled ultra-cold plasmas
+  * Amount: 12 mil. CZK
+  * Period: 2021-2023
 
 * [John Fell Oxford University Press Research Fund](https://researchsupport.admin.ox.ac.uk/funding/internal/jff)
   * Role: Co-PI
   * Title: Experimental realisation of a two-frequency Paul trap
   * Amount: 7500 GBP
-  * Period: 01-04/2020
+  * Period: 01-12/2020
 
 * [Student Project Grant at Charles University in Prague](https://cuni.cz/UKEN-753.html)
   * Role: PI
