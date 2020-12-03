@@ -8,20 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am an enginner with the experience from an academic sphere. During my two post-doc appointments and PhD studies, I did research in fields of plasmochemistry, cluster physics and ultra-cold chemistry. 
-
-I constructed a device that confines a cloud of ions at such low temperatures (less than -273 degrees Celsius) that it “freezes” and forms a “gas-phase” crystal. This will be eventually attached to a source of neutral atoms and molecules that move at a snail’s speed, typical for a gas cooled down to less than -260 degrees Celsius. By letting the ions and the neutrals collide in this way, the scientists will once be able to study quantum-mechanical rules that chemical reactions obey.
-
-Techniques employed: FEM, CAD, Zemax, Python, C++.
+I study how to confine ultra-cold plasmas. If you cool a cloud of ions to temperatures as low as -273 degrees Celsius, it “freezes” and forms a “gas-phase” crystal. My goal is to introduce an electron into this crystal and observe how it reacts with the ions. Once we will manage to make this electron stand still and observe how it switches between particle-like and wave-like behaviours. This may be exploited in quantum technologies that [we have no clue about](https://en.wikipedia.org/wiki/Ball_Lightning_(novel)). 
 
 
 About me
 ======
-Currently, I am working as an optical engineer in the automitive industry.
 
-In years 2017—2020, I was a [post-doctoral research associate](http://www.chem.ox.ac.uk/dr-michal-hejduk.aspx) in the [Heazlewood Group](http://heazlewood.chem.ox.ac.uk/) at the Departmenf of Chemistry of the University of Oxford (UK).
+My CV in a nutshell: 2013-PhD in cold plasma physics ([Prague](https://cuni.cz/UKEN-1.html)), 2014—2017 cluster physics postdoc ([Freiburg](https://www.physik.uni-freiburg.de/), Germany), 2017—2020 [post-doctoral research associate](http://www.chem.ox.ac.uk/dr-michal-hejduk.aspx) in the [Heazlewood Group](http://heazlewood.chem.ox.ac.uk/) at the Department of Chemistry of the University of Oxford (UK). In 2020, I worked briefly as an optical engineer in the automotive industry.
 
-Previously, I was a post-doctoral researcher at the [Institute of Physics](https://www.physik.uni-freiburg.de/) of the University of Freiburg (Germany). I gained my doctoral degree at the [Faculty of Mathematics and Physics](https://www.mff.cuni.cz) of Charles University (Czech Republic).
+From 2021, I will conduct my own research funded by [Charles University in Prague](https://cuni.cz/UKEN-558.html). I am looking for an enthusiastic young postdoc to work with!
+
 
 News
 ======
