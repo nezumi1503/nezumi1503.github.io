@@ -21,7 +21,10 @@ Education
 
 Work experience
 ======
-* 2020-present: Optical Engineer
+* 2021-present:
+  * PI at Department of Surface and Plasma Science, Charles University
+
+* 2020-2021: Optical Engineer
   * [Valeo autoklimatizace k.s.](https://valeo.cz/en/)
 
 * 2017-2020: Post-Doctoral Research Associate
