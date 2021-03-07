@@ -1,7 +1,7 @@
 ---
 title: 'An open letter to my future postdoc candidate'
 date: 2021-03-07
-permalink: /posts/2020/02/for-postdocs/
+permalink: /posts/2021/03/for-postdocs/
 tags:
   - postdoc
   - research
