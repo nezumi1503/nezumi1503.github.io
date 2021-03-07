@@ -9,7 +9,8 @@ tags:
   - science
 ---
 
-Dear Candidate, 
+Dear Candidate,
+
 If you are reading this, you may already know that I am a principal investigator founding a new laboratory at Charles University in Prague, Czech Republic. I have received support worth approximately 12 million Czech crowns (around 465 thousand Euro) for carrying out my research for the next three years. That is not bad at all. For 12 million crowns, you can have 300 thousand pints of Czech lager (the best beer in the world, by the way), buy a flat in the  Kensington-equivalent of Prague, or – if you wish – pay the salary of two academics for three years and equip an optical laboratory. Unfortunately, Charles University gives the money only for the last option, so here I am sitting at my desk, typing this text that will hopefully attract you to my research by the time you finish reading.
 
 So, what did I get the funding for? For the idea of “making a white dwarf star on Earth”! Does that  sound crazy to you? Well, not insane enough to not be supported by the  prestigious PRIMUS Research Program of Charles University that “aims to encourage young researchers with international experience to establish new research groups and laboratories'' (as stated on the official website).  “Making a white dwarf on Earth'' may sound impossible. However, I am not suggesting shooting a rocket to the nearest one (which happens to be just 8.6 light years away, by the way) and dragging it back using a rope or something like that! What I truly desire can be encapsulated in three words: “construct”, “confine”, “capture”. To construct a machine that confines the white-dwarf-like matter and to capture its images. 
