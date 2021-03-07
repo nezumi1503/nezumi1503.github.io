@@ -35,7 +35,7 @@ But imagine! The solid magnified 10,000 times, the structure of which could be s
 * … show how to turn a normal conductor to a superconductor by exposure to the light, 
 * … improve the nuclear [fusion material for inertial fusion power plants](https://github.com/nezumi1503/nezumi1503.github.io/blob/master/images/trappedCoulombCrystal.jpg), 
 * … do cool stuff that no one has ever done before. 
-And you would be able to observe the outcomes of such activities with the naked eye! Provided that you use a microscope objective, ehm... 
+And you would be able to observe the outcomes of such activities with the naked eye! Provided that you use a microscope objective, ehm...</br> 
 <img src="https://github.com/nezumi1503/nezumi1503.github.io/blob/master/images/28_01_19_100_modA.png" alt="Coulomb crystal image captured in Brianna Heazlewood’s lab at the University of Oxford during my time there." width="400"/></br>
 <em>Coulomb crystal image captured in Brianna Heazlewood’s lab at the University of Oxford during my time there.</em>
 </br></br>
