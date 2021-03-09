@@ -16,11 +16,11 @@ The successful candidate will participate in reaching following research objecti
 
 In order to reach these goals, the prospective member of the group should be skilled in more than one following domains:
 
-*High-performance computing,
-*Application of artificial intelligence to hardware design optimisations,
-*Design of radio-frequency and microwave circuitry,
-*Hands-on experience with lasers,
-*Design of ultra-high-vacuum devices.
+* High-performance computing,
+* Application of artificial intelligence to hardware design optimisations,
+* Design of radio-frequency and microwave circuitry,
+* Hands-on experience with lasers,
+* Design of ultra-high-vacuum devices.
 
 A good publication record in closely related fields is expected.
 
