@@ -17,6 +17,8 @@ Projekt je financován z programu PRIMUS, jenž má za cíl podporovat mladé v�
 
 Více informací rovněž zde: https://mhejduk.com.
 
+Contact @ [contact+studium@mhejduk.com](mailto:contact+studium@mhejduk.com)
+
 Zásady pro vypracování
 
     Studium doporučené literatury.
