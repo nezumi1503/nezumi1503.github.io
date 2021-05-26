@@ -16,11 +16,15 @@ About me
 
 My CV in a nutshell: 2013-PhD in cold plasma physics ([Prague](https://cuni.cz/UKEN-1.html)), 2014—2017 cluster physics postdoc ([Freiburg](https://www.physik.uni-freiburg.de/), Germany), 2017—2020 [post-doctoral research associate](http://www.chem.ox.ac.uk/dr-michal-hejduk.aspx) in the [Heazlewood Group](http://heazlewood.chem.ox.ac.uk/) at the Department of Chemistry of the University of Oxford (UK). In 2020, I worked briefly as an optical engineer in the automotive industry.
 
-From 2021, I will conduct my own research funded by [Charles University in Prague](https://cuni.cz/UKEN-558.html). I am looking for an enthusiastic young postdoc to work with!
+From 2021, I conduct my own research funded by [Charles University in Prague](https://cuni.cz/UKEN-558.html). 
+
+**I am looking for enthusiastic students to work with!** [New projects are ready](https://nezumi1503.github.io/positions/).
 
 
 News
 ======
+26.05.2021 - Postdoc selected. Looking for bachelor and master degree students!
+
 01.12.2020 - Hejduk Group at Charles University in Prague founded, funded by [PRIMUS Research Programme](https://cuni.cz/UKEN-558.html)
 
 15.05.2020 - Became an Optical Engineer in [Valeo autoklimatizace k.s.](https://valeo.cz/en/)
