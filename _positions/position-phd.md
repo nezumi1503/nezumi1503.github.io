@@ -34,7 +34,7 @@ The research project is funded from the PRIMUS Research Programme of Charles Uni
 
 In addition to the standard monthly non-taxable scholarship, a doctoral student will receive a salary covering living costs and state health and social insurances. He/she will also have an opportunity to apply for internal research grants to develop skills necessary for living as a scientist. 
 
-<img src='/images/CCwtext.png' width="150"/><br/>
+<img src='images/phdfacebook2.GIF' width="300"/><br/>
 
 
 Contact @ [contact+phd@mhejduk.com](mailto:contact+phd@mhejduk.com)
