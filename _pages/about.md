@@ -23,6 +23,8 @@ From 2021, I conduct my own research funded by [Charles University in Prague](ht
 
 News
 ======
+24.09.2021 - [A series of four lectures](https://mhejduk.com/teaching/2021-ultracold-series) about ultracold physics and quantum control with guests from the University of Oxford are shceduled for October and November 2021.
+
 26.05.2021 - Postdoc selected. Looking for bachelor and master degree students!
 
 01.12.2020 - Hejduk Group at Charles University in Prague founded, funded by [PRIMUS Research Programme](https://cuni.cz/UKEN-558.html)
