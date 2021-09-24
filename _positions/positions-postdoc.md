@@ -1,5 +1,5 @@
 ---
-title: "Postdoctoral Researcher"
+title: "Postdoctoral Researcher (selection process ended)"
 excerpt: "electron-ion trap design"
 collection: positions
 ---
