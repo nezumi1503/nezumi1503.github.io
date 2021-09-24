@@ -1,5 +1,5 @@
 ---
-title: "Ultracold physics and quantum control"
+title: "Ultracold physics and quantum control (zimní semestr)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-ultracold-series
@@ -7,8 +7,6 @@ venue: "MFF UK"
 date: 2021-10-01
 location: "Praha, Czechia"
 ---
-
-# Ultracold Physics and Quantum Control (zimní semestr)
 
 Série přednášek o fyzice ultrachladných médií a ovládání kvantových stavů.
 
