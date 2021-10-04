@@ -18,11 +18,11 @@ My CV in a nutshell: 2013-PhD in cold plasma physics ([Prague](https://cuni.cz/U
 
 From 2021, I conduct my own research funded by [Charles University in Prague](https://cuni.cz/UKEN-558.html). 
 
-**I am looking for enthusiastic students to work with!** [New projects are ready](https://nezumi1503.github.io/positions/).
-
 
 News
 ======
+
+
 24.09.2021 - [A series of four lectures](https://mhejduk.com/teaching/2021-ultracold-series) about ultracold physics and quantum control with guests from the University of Oxford are shceduled for October and November 2021.
 
 26.05.2021 - Postdoc selected. Looking for bachelor and master degree students!
@@ -36,3 +36,6 @@ News
 17.12.2019 - New article published in Review of Scientific Instruments
 
 15.07.2019 - New blog post.
+
+**I am looking for enthusiastic students to work with!** [New projects are ready](https://nezumi1503.github.io/positions/).
+
