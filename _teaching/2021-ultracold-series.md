@@ -14,21 +14,21 @@ Cílovou skupinou jsou studenti na prahu získávání znalostí z kvantové fyz
 
 Cílem přednášek je seznámit studenty a širší veřejnost s tématem fyziky ultrachladných systémů a rozšířit povědomí o výzkumné aktivitě, která se nově rozvíjí na Katedře fyziky povrchů a plazmatu Matematicko-fyzikální fakulty Univerzity Karlovy.
 
-### Bílí trpaslíci v pasti aneb Kvantové plazma (8.10.2021)
+## Bílí trpaslíci v pasti aneb Kvantové plazma (8.10.2021)
 Úvod do problematiky kvantového plazmatu. Offline přednáška na MFF UK v rámci předmětu ["Problémy současné fyziky"](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NOFY047).
 
-### Laser cooling and trapping of atoms (15.10.2021, 10.30 hod.)
+## Laser cooling and trapping of atoms (15.10.2021, 10.30 hod.)
 Přednáška od profesora [Chrise Foota](https://coldatoms.web.ox.ac.uk/#/) z Oxfordské univerzity o tvorbě ultrachladného plynu.
 
 Registrujte se zde: [https://cuni-cz.zoom.us/meeting/register/tJwoc-mqqzwvG9EB9Fgn9YlI5VTrthL8z4PR](https://cuni-cz.zoom.us/meeting/register/tJwoc-mqqzwvG9EB9Fgn9YlI5VTrthL8z4PR)
 
 
-### Ultracold quantum gases: Bose-Einstein condensation and matter-wave interference (21.10.2021, 14.00 hod.)
+## Ultracold quantum gases: Bose-Einstein condensation and matter-wave interference (21.10.2021, 14.00 hod.)
 Druhá přednáška od profesora [Chrise Foota](https://coldatoms.web.ox.ac.uk/#/) z Oxfordské univerzity o tom, jak přimět hmotu, aby se chovala jako vlny.
 
 Registrujte se zde: [https://cuni-cz.zoom.us/meeting/register/tJ0lduuhqjsuGtPuNOL_vcx38xv0QGS-FKh1](https://cuni-cz.zoom.us/meeting/register/tJ0lduuhqjsuGtPuNOL_vcx38xv0QGS-FKh1)
 
-### Quantum technologies with Rydberg atoms (3.11.2021, 14.00 hod.)
+## Quantum technologies with Rydberg atoms (3.11.2021, 14.00 hod.)
 Přednáška od [dr. Martina Kiffnera](https://martinkiffner.com/) z [Oxfordské univerzity](https://www3.physics.ox.ac.uk/groups/qubit/) jak použít techniky ovládání kvantových stavů k převodu mikrovln na viditelné záření.
 
 Abstrakt: Rydberg atoms are atoms in highly excited electronic states and exhibit extremely exaggerated properties as compared to their ground state counterparts. For example, they exhibit a quasi-continuum of very strong dipole transitions in the terahertz and microwave range, and the lifetime of Rydberg states increases dramatically with their principal quantum number. In my talk I will discuss how these properties can be harnessed for the efficient interconversion of millimeter-wave and optical fields [1-3],  which has numerous applications in classical and quantum technologies. In addition, I will present experimental results on the generation of coherent UV and terahertz fields in hot Rubidium vapor [4,5].
@@ -41,9 +41,9 @@ Abstrakt: Rydberg atoms are atoms in highly excited electronic states and exhibi
 
 Registrujte se zde: [https://cuni-cz.zoom.us/meeting/register/tJ0sdeusrzoiGtRxFXzPkCvm2Il5H1xfRmlF](https://cuni-cz.zoom.us/meeting/register/tJ0sdeusrzoiGtRxFXzPkCvm2Il5H1xfRmlF)
 
-### O přednášejících
+## O přednášejících
 
-#### Prof. Christopher Foot
+### Prof. Christopher Foot
 <img src="https://www.spc.ox.ac.uk/sites/default/files/styles/person/public/person/2020-06/Chris_Foot_2.jpg?h=36d760c7&itok=WpllpHb1"
      alt="Prof. Chris Foot"
      style="float: left; margin-right: 10px; width: 10vw" />
@@ -56,7 +56,7 @@ V poslední době výzkumný tým vedený Chrisem Footem vyvinul několik novýc
 
 V St. Peter's College Chris vyučuje kvantovou mechaniku a atomovou, molekulární a laserovou fyziku. Na katedře fyziky přednášel atomovou fyziku a vedl kurzy o ultrachladné kvantové hmotě. V poslední době je koordinátorem volitelného studijního programu pro čtvrtý ročník týkající se laserů a kvantového zpracování informací.
 
-#### Dr. Martin Kiffner
+### Dr. Martin Kiffner
 <img src="https://www.keble.ox.ac.uk/wp-content/uploads/2018/08/Martin-Kiffner.jpg"
      alt="Dr Martin Kiffner"
      style="float: left; margin-right: 10px; width: 10vw" />
