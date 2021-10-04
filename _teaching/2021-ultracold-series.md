@@ -8,7 +8,7 @@ date: 2021-10-01
 location: "Praha, Czechia"
 ---
 
-V říjnu a listopadu 2021 pořádáme sérii přednášek na téma "Fyzika ultrachladných médií a ovládání kvantových stavů" sponzorovanou Fondem strategických partnerství Univerzity Karlovy.
+V říjnu a listopadu 2021 pořádáme sérii přednášek na téma "Fyzika ultrachladných médií a ovládání kvantových stavů". Díky finanční podpoře od Fondu strategických partnerství Univerzity Karlovy mají posluchači možnost si vyslechnout tradiční výukové (tj. na studenty orientované) přednášky od vědců z Oxfordské univerzity. 
 
 Cílovou skupinou jsou studenti na prahu získávání znalostí z kvantové fyziky, ale budeme se snažit prezentaci přizpůsobit i akademikům z nefyzikálních přírodovědných oborů.
 
@@ -18,7 +18,7 @@ Cílem přednášek je seznámit studenty a širší veřejnost s tématem fyzik
 Úvod do problematiky kvantového plazmatu. Offline přednáška na MFF UK v rámci předmětu ["Problémy současné fyziky"](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NOFY047).
 
 ### Laser cooling and trapping of atoms (15.10.2021, 10.30 hod.)
-Přednáška od profesora [Chrise Foota](https://coldatoms.web.ox.ac.uk/#/) z Oxfordské univerzity o tvorbě ultrachladného plynu
+Přednáška od profesora [Chrise Foota](https://coldatoms.web.ox.ac.uk/#/) z Oxfordské univerzity o tvorbě ultrachladného plynu.
 
 Registrujte se zde: [https://cuni-cz.zoom.us/meeting/register/tJwoc-mqqzwvG9EB9Fgn9YlI5VTrthL8z4PR](https://cuni-cz.zoom.us/meeting/register/tJwoc-mqqzwvG9EB9Fgn9YlI5VTrthL8z4PR)
 
@@ -33,15 +33,11 @@ Přednáška od [dr. Martina Kiffnera](https://martinkiffner.com/) z [Oxfordské
 
 Abstrakt: Rydberg atoms are atoms in highly excited electronic states and exhibit extremely exaggerated properties as compared to their ground state counterparts. For example, they exhibit a quasi-continuum of very strong dipole transitions in the terahertz and microwave range, and the lifetime of Rydberg states increases dramatically with their principal quantum number. In my talk I will discuss how these properties can be harnessed for the efficient interconversion of millimeter-wave and optical fields [1-3],  which has numerous applications in classical and quantum technologies. In addition, I will present experimental results on the generation of coherent UV and terahertz fields in hot Rubidium vapor [4,5].
 
-[1] M. Kiffner, A. Feizpour, K. T. Kaczmarek, D. Jaksch and J. Nunn, Two-way interconversion of millimeter-wave and optical fields in Rydberg gases, New J. Phys. 18, 093030 (2016).
-
-[2] J. Han, T. Vogt, C. Gross, D. Jaksch, M. Kiffner, and W. Li, Coherent Microwave-to-Optical Conversion via Six-Wave Mixing in Rydberg Atoms, Phys. Rev. Lett. 120, 093201 (2018).
-
-[3] T. Vogt, C. Gross, J. Han, S. B. Pal, M. Lam, M. Kiffner, and W. Li, Efficient microwave-to-optical conversion using Rydberg atoms, Phys. Rev. A 99, 023832 (2019).
-
-[4] M. Lam, S. B. Pal, T. Vogt, C. Gross, M. Kiffner, and W. Li, Collimated UV light generation by two-photon excitation to a Rydberg state in Rb vapor, Optics Letters 44, 2931 (2019).
-
-[5] M. Lam, S. B. Pal, T. Vogt, M. Kiffner, and W. Li, Directional THz generation in hot Rb vapor excited to a Rydberg state, Opt. Lett. 46, 1017 (2021).
+1. M. Kiffner, A. Feizpour, K. T. Kaczmarek, D. Jaksch and J. Nunn, Two-way interconversion of millimeter-wave and optical fields in Rydberg gases, New J. Phys. 18, 093030 (2016).
+2. J. Han, T. Vogt, C. Gross, D. Jaksch, M. Kiffner, and W. Li, Coherent Microwave-to-Optical Conversion via Six-Wave Mixing in Rydberg Atoms, Phys. Rev. Lett. 120, 093201 (2018).
+3. T. Vogt, C. Gross, J. Han, S. B. Pal, M. Lam, M. Kiffner, and W. Li, Efficient microwave-to-optical conversion using Rydberg atoms, Phys. Rev. A 99, 023832 (2019).
+4. M. Lam, S. B. Pal, T. Vogt, C. Gross, M. Kiffner, and W. Li, Collimated UV light generation by two-photon excitation to a Rydberg state in Rb vapor, Optics Letters 44, 2931 (2019).
+5. M. Lam, S. B. Pal, T. Vogt, M. Kiffner, and W. Li, Directional THz generation in hot Rb vapor excited to a Rydberg state, Opt. Lett. 46, 1017 (2021).
 
 Registrujte se zde: [https://cuni-cz.zoom.us/meeting/register/tJ0sdeusrzoiGtRxFXzPkCvm2Il5H1xfRmlF](https://cuni-cz.zoom.us/meeting/register/tJ0sdeusrzoiGtRxFXzPkCvm2Il5H1xfRmlF)
 
