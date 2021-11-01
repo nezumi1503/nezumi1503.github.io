@@ -39,7 +39,7 @@ Abstrakt: Rydberg atoms are atoms in highly excited electronic states and exhibi
 4. M. Lam, S. B. Pal, T. Vogt, C. Gross, M. Kiffner, and W. Li, Collimated UV light generation by two-photon excitation to a Rydberg state in Rb vapor, Optics Letters 44, 2931 (2019).
 5. M. Lam, S. B. Pal, T. Vogt, M. Kiffner, and W. Li, Directional THz generation in hot Rb vapor excited to a Rydberg state, Opt. Lett. 46, 1017 (2021).
 
-Registrujte se zde: [https://cuni-cz.zoom.us/meeting/register/tJ0sdeusrzoiGtRxFXzPkCvm2Il5H1xfRmlF](https://cuni-cz.zoom.us/meeting/register/tJ0sdeusrzoiGtRxFXzPkCvm2Il5H1xfRmlF)
+[Připojte se přes Zoom kliknutím na tento link nebo zadáním následujících údajů: Meeting ID 991 2241 1800, heslo KFPP.](https://cuni-cz.zoom.us/j/99122411800?pwd=eW5oeGxqOVdleWdKT0phU2dzZnBTQT09)
 
 ## O přednášejících
 
