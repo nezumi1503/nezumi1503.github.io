@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Michal Hejduk"
+title                    : "Hejduk Group"
 title_separator          : "-"
-name                     : &name "Michal Hejduk"
-description              : &description "cold plasma physicist"
+name                     : &name "Hejduk Group"
+description              : &description "ultracold plasma physics"
 url                      : https://nezumi1503.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nezumi1503/nezumi1503.github.io"
@@ -67,7 +67,7 @@ og_image                 :  # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  name                   : "Ultracold Plasma Laboratory Prague"
   links: # An array of links to social media profiles
 
 
@@ -190,6 +190,9 @@ collections:
   positions:
     output: true
     permalink: /:collection/:path/
+  people:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -251,6 +254,14 @@ defaults:
   - scope:
       path: ""
       type: positions
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _people
+  - scope:
+      path: ""
+      type: people
     values:
       layout: single
       author_profile: true

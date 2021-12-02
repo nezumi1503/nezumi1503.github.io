@@ -1,5 +1,5 @@
 ---
-title: "Bakalářská práce 1"
+title: "Bakalářská práce 1 (zadána)"
 excerpt: "Kvantově-mechanické provázání optického rezonátorů s ionty v ultra-chladném plazmatu"
 collection: positions
 ---

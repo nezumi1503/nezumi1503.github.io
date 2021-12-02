@@ -1,5 +1,5 @@
 ---
-title: "Bakalářská práce 2"
+title: "Bakalářská práce 2 (zadána)"
 excerpt: "Simulace dynamiky ultra-chladného kvantového plazmatu"
 collection: positions
 ---

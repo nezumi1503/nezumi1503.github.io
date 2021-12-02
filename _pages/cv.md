@@ -77,7 +77,9 @@ These are courses organised by the University of Oxford. In addition to this, I 
 
 Administrative Activities and Professional Memberships
 ======
-* 2018-present
+* 2021-present
+  * Member of the Union of Czech Mathematicians and Physicists
+* 2018-2020
   * Member of the Royal Society of Chemistry
 * 2017
   * Editor for [Research Careers - Options Beyond Academia](http://research-careers.org/), the website about career transitions out of academia
@@ -111,4 +113,10 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Images
+======
+  <ul>{% for post in site.portfolio %}
+    {% include archive-single.html %}
   {% endfor %}</ul>
