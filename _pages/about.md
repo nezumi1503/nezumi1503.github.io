@@ -24,6 +24,8 @@ News
 
 01.03.2022 - Two PhD students, Niklas Lausti and Vineet Kumar, join the group.
 
+16.02.2022 - [New article about a cryogenic ion trap](https://aip.scitation.org/doi/10.1063/5.0080458) published.
+
 01.12.2021 - [Dr Albin Antony](https://www.linkedin.com/in/albin-antony-phd-b20227103/) joins our group as a postdoc!
 
 01.10.2021 - Two bachelor degree students, Andrej Rendek and Ivan Hudák, join the group.
@@ -34,9 +36,5 @@ News
 
 01.01.2020 - [John Fell Fund](https://www.mpls.ox.ac.uk/internal-research-funding/research-funding/jff) (7500 GBP) for development of a two-frequency Paul trap acquired.
 
-17.12.2019 - New article published in Review of Scientific Instruments
-
-15.07.2019 - New blog post.
-
-**I am looking for enthusiastic students to work with!** [New projects are ready](https://nezumi1503.github.io/positions/).
+**I am always looking for enthusiastic students to work with!** See new bachelor thesis topics  [here](https://physics.mff.cuni.cz/kfpp/php/bak-nove.php?langen=0).
 
