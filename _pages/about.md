@@ -32,9 +32,5 @@ News
 
 24.09.2021 - [A series of four lectures](https://mhejduk.com/teaching/2021-ultracold-series) about ultracold physics and quantum control with guests from the University of Oxford are shceduled for October and November 2021.
 
-01.12.2020 - Hejduk Group at Charles University in Prague founded, funded by [PRIMUS Research Programme](https://cuni.cz/UKEN-558.html)
-
-01.01.2020 - [John Fell Fund](https://www.mpls.ox.ac.uk/internal-research-funding/research-funding/jff) (7500 GBP) for development of a two-frequency Paul trap acquired.
-
 **I am always looking for enthusiastic students to work with!** See new bachelor thesis topics  [here](https://physics.mff.cuni.cz/kfpp/php/bak-nove.php?langen=0).
 
