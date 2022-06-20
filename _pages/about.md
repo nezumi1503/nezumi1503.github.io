@@ -22,7 +22,11 @@ From 2021, MH conducts his own research funded by [Charles University in Prague]
 News
 ======
 
+01.03.2022 - Two PhD students, Niklas Lausti and Vineet Kumar, join the group.
+
 01.12.2021 - [Dr Albin Antony](https://www.linkedin.com/in/albin-antony-phd-b20227103/) joins our group as a postdoc!
+
+01.10.2021 - Two bachelor degree students, Andrej Rendek and Ivan Hudák, join the group.
 
 24.09.2021 - [A series of four lectures](https://mhejduk.com/teaching/2021-ultracold-series) about ultracold physics and quantum control with guests from the University of Oxford are shceduled for October and November 2021.
 
