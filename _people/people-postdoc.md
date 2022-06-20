@@ -5,7 +5,7 @@ collection: people
 ---
 
 # Research objectives
-Development of optical method for detection of ion motion
+Development of manufacturing methods for surface-electrode electron-ion trap
 
 Contact @ [albin.antony@matfyz.cuni.cz](mailto:albin.antony@matfyz.cuni.cz)
 
