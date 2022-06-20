@@ -1,5 +1,5 @@
 ---
-title: "Diplomová práce"
+title: "Diplomová práce (expired)"
 excerpt: "Zkoumání kolektivních interakcí v ultra-chladném plazmatu "
 collection: positions
 ---
