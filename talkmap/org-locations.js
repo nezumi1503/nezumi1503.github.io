@@ -23,5 +23,15 @@ var addressPoints = [
     "Irvington, New York, USA",
     41.0350625,
     -73.864852135741
-  ]
+  ],
+  [
+   "Praha, Czech Republic",
+   50.12370141928427,
+      14.465973761358129
+  ],
+  [
+    "Paseky nad Jizerou, Czech Republic",
+      50.72152129604479,
+      15.394483642622916
+  ]  
 ];
