@@ -1,5 +1,5 @@
 ---
-title: "Vineet Kumar"
+title: "Vineet Kumar <br/><img src='/images/VK.png' width='250'>"
 excerpt: "PhD Student"
 collection: people
 ---
