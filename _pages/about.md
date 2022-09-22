@@ -8,8 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-We study how to confine ultra-cold plasmas. If you cool a cloud of ions to temperatures as low as -273 degrees Celsius, it “freezes” and forms a “gas-phase” crystal. My goal is to introduce an electron into this crystal and observe how it reacts with the ions. Once we will manage to make this electron stand still and observe how it switches between particle-like and wave-like behaviours. This may be exploited in quantum technologies that [we have no clue about](https://en.wikipedia.org/wiki/Ball_Lightning_(novel)). 
+We are developing a microwave ion trap capable of confining ultra-cold plasmas. If you cool a cloud of ions to temperatures as low as -273 degrees Celsius, it “freezes” and forms a “gas-phase” crystal. We aim to introduce an electron into this crystal and observe how it reacts with the ions. Once we make this electron stand still, we will watch how it switches between particle-like and wave-like behaviours. This may be exploited in quantum technologies that [we have no clue about](https://en.wikipedia.org/wiki/Ball_Lightning_(novel)) 
 
+ <iframe width="560" height="315"
+src="https://www.youtube.com/embed/GFbpZg6TR64" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 About the PI
 ======
@@ -22,13 +27,11 @@ From 2021, MH conducts his own research funded by [Charles University in Prague]
 News
 ======
 
+07.09.2022 - Andrej and Ivan defended their bachelor theses and passed the state exams! Congratulations Bc. Rendek and Bc. Hudák!
+
 01.03.2022 - Two PhD students, Niklas Lausti and Vineet Kumar, join the group.
 
 16.02.2022 - [New article about a cryogenic ion trap](https://aip.scitation.org/doi/10.1063/5.0080458) published.
-
-01.12.2021 - [Dr Albin Antony](https://www.linkedin.com/in/albin-antony-phd-b20227103/) joins our group as a postdoc!
-
-01.10.2021 - Two bachelor degree students, Andrej Rendek and Ivan Hudák, join the group.
 
 24.09.2021 - [A series of four lectures](https://mhejduk.com/teaching/2021-ultracold-series) about ultracold physics and quantum control with guests from the University of Oxford are shceduled for October and November 2021.
 
