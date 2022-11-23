@@ -27,6 +27,8 @@ From 2021, MH conducts his own research funded by [Charles University in Prague]
 News
 ======
 
+23.11.2022 - **We are looking for a new postdoc who would bring the electron trapping project to the successful end! More information [here](https://mhejduk.com/positions/positions-postdoc/)**
+
 07.09.2022 - Andrej and Ivan defended their bachelor theses and passed the state exams! Congratulations Bc. Rendek and Bc. Hudák!
 
 01.03.2022 - Two PhD students, Niklas Lausti and Vineet Kumar, join the group.
