@@ -20,6 +20,6 @@ To make use of the aforementioned quantum system, it is required to be able to m
 
 All those plans would stay forever on paper if no instrument is developed. We are currently constructing two Paul traps for this purpose. One, planned to be commissioned in the first half of the year 2023, builds on the idea of [Wineland and others](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.51.3112) from the 90s. Another, chip-based, is a long-term project. As high currents are required for trapping electrons above a planar trap, we started with the development of substrate material for high-power microwave circuits. The work is carried out in cooperation with the [HiLase](https://hilase.cz) picosecond laser facility and the [Czech Technical University](https://www.fs.cvut.cz/ustavy/sekce-ustav-materialoveho-inzenyrstvi/sekce-ustav-materialoveho-inzenyrstvi-12132/ustav-12132/) and the first outcomes are going to be published soon.
 
-The optical cavity for electron manipulation is being developed in cooperation with the Institute of Photonics and Electronics of the Czech Academy of Sciences.
+The optical cavity for electron manipulation is being developed in cooperation with the [Institute of Photonics and Electronics](https://www.ufe.cz/cs/tym/vlaknove-lasery-nelinearni-optika) of the Czech Academy of Sciences.
 
 <img src='/images/layer.png' width="250"/><br/>
