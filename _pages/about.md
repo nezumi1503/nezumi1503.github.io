@@ -27,7 +27,7 @@ From 2021, MH conducts his own research funded by [Charles University in Prague]
 News
 ======
 
-23.11.2022 - **We are looking for a new postdoc who would bring the electron trapping project to the successful end! More information [here](https://mhejduk.com/positions/positions-postdoc/)**
+1.4.2023 - **Payman Mahmoudi joins our group as a postdoc.**
 
 07.09.2022 - Andrej and Ivan defended their bachelor theses and passed the state exams! Congratulations Bc. Rendek and Bc. Hudák!
 
