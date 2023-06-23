@@ -33,5 +33,10 @@ var addressPoints = [
     "Paseky nad Jizerou, Czech Republic",
       50.72152129604479,
       15.394483642622916
-  ]  
+  ],
+  [
+    "Tokyo, Japan",
+    35.7117156,
+    139.7637456
+  ]
 ];
