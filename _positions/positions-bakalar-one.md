@@ -1,24 +1,27 @@
 ---
 title: "Bakalářská práce 1"
-excerpt: "Pokovování skleněného substrátu pro výrobu plošných iontových pastí"
+excerpt: "Validace elektron-iontové pasti"
 collection: positions
 ---
 Vedoucí: Mgr. Michal Hejduk, Ph.D.
 
 Anotace:
 
- Výroba elektronických obvodů na skleněném substrátu je jednou z klíčových technologií pro zvýšení výkonu elektronických zařízení nové generace. Nanášení mědi (Cu) na skleněný substrát poskytuje mnoho výhod pro např. vysokofrekvenční komunikační zařízení (viz sítě 5G) nebo kvantové počítače. Nejzřetelnějšími výhodami použití skleněného substrátu jsou jeho materiálové vlastnosti, jako je hladkost povrchu, rozměrová stabilita při vysokých teplotách, nízká vodivost, nízká dielektrická ztráta a škálovatelnost na panely s větší plochou při snížených nákladech v porovnání s křemíkovými matricemi. Nedořešenou otázkou bránící širšímu nasazení tohoto materiálu je slabá adheze mezi sklem a kovem: ta je často horší ve srovnání s přilnavostí kovu ke kovu nebo křemíkovému podkladu.
-
-V tomto projektu vyvinete metody zhotovení měděného filmu o tloušťce větší než 30 μm silně navázaného na skleněný substrát. Projekt zahrnuje seznámení se s postupy čištění skla a několika technikami nanášení (rozprašování, elektrolytické pokovování, galvanické pokovování). Budou studovány strukturní a morfologické vlastnosti nanesených filmů. Dále bude skleněný substrát podroben laserovému mikroobrábění s pomocí našich vědeckých [spolupracovníků[(https://www.hilase.cz/en/) za účelem výroby plošné iontové pasti. 
+Záchyt elektronů ve vakuu a jejich zchlazení na teploty několika milikelvinů je největší výzvou na cestě ke kvantovým simulátorům a počítačům, které fungují na principu manipulování s kvantovými stavy volných elektronů. Oproti počítačům založeným na volných, laserem chlazených iontech nabízejí zrychlení operací o několik řádů.
+Naše skupina se snaží tohoto cíle dosáhnout pomocí interakcí elektronů s laserem chlazenými ionty. Máme připravené dva návrhy pastí (zařízení na záchyt elektronů), z nichž jeden nám na stole, byv vytisknut na 3D tiskárně, čeká na instalaci a validaci. Design druhého, v podstatě čipu, jsme právě poslali do patentového úřadu.
+Bakalářský student se bude podílet na charakterizaci experimentálního zařízení, na zlepšování jeho designu nebo na počítačových simulacích toho, co od experimentů očekáváme.
 
 Zásady pro vypracování
 
-    Vyvinout proces pro vytvoření přilnavého Cu filmu na skleněných substrátech ve funkční tloušťce větší než 30 μm. 
-    Studovat strukturní a morfologické vlastnosti zhotovených filmů. 
-    Laserové mikroobrábění pokoveného skla pro výrobu plošné iontové pasti. 
+    Studium literatury a sepsání přehledu o záchytu chladných elektronů a iontů v radiofrekvenčních pastech. 
+    Seznámení se s návrhy a realizacemi dvoufrekvenčních pastí schopných zachytávat jak elektrony, tak ionty. 
+    Analýza funkčnosti a vlastností pasti a experimentální aparatury.
 
 Literatura
 
-    Simon Ragg, Chiara Decaroli, Thomas Lutz, Jonathan P. Home, Rev. Sci. Instrum., 90, 103203 (2019) 
-    Alexander Miller,Lu Yu, Jacob Blickensderfer, Rohan Akolkar, J. Ele.chm. Soc., 162 (14) D630-D634 (2015) 
-    Christopher E. J. Cordonier, Kyohei Okabe,Yoshio Horiuchi, Akimasa Nakamura,Kaoru Ishikawa, Shozo Seino, Shinsuke Takagi,Hideo Honma, Langmuir., 33, 14571−14579 (2017) 
+    Ebeling, W., Fortov, V. E. & Filinov, V. Quantum Statistics of Dense Gases and Nonideal Plasmas. (Springer International Publishing, 2017). doi:10.1007/978-3-319-66637-2. 
+    Gerlich, D. Inhomogeneous RF Fields: A Versatile Tool for the Study of Processes with Slow Ions. in Advances in Chemical Physics 1–176 (John Wiley & Sons, Ltd, 2007). doi:10.1002/9780470141397.ch1. 
+    Foot, C. J. Atomic physics. (Oxford University Press, 2005). 
+	Leefer, N. et al. Investigation of two-frequency Paul traps for antihydrogen production. Hyperfine Interact. 238, 12 (2016). 
+	Daniš, S. Atomová fyzika a elektronová struktura látek. (Matfyzpress, 2022).
+
