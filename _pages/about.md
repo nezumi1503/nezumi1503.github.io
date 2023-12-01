@@ -19,23 +19,24 @@ allowfullscreen></iframe>
 About the PI
 ======
 
-PI(MH)'s CV in a nutshell: 2013—PhD in cold plasma physics ([Prague](https://cuni.cz/UKEN-1.html)), 2014—2017 cluster physics postdoc ([Freiburg](https://www.physik.uni-freiburg.de/), Germany), 2017—2020 [post-doctoral research associate](http://www.chem.ox.ac.uk/dr-michal-hejduk.aspx) in the [Heazlewood Group](http://heazlewood.chem.ox.ac.uk/) at the Department of Chemistry of the University of Oxford (UK). In 2020, MH worked briefly as an optical engineer in the automotive industry.
+Dr. Michal Hejduk's CV in a nutshell:
 
-From 2021, MH conducts his own research funded by [Charles University in Prague](https://cuni.cz/UKEN-558.html). 
+- 2013: PhD in cold plasma physics from [Prague](https://cuni.cz/UKEN-1.html)
+- 2014–2017: Postdoc in cluster physics at [Freiburg](https://www.physik.uni-freiburg.de/), Germany
+- 2017–2020: [Post-doctoral research associate](http://www.chem.ox.ac.uk/dr-michal-hejduk.aspx) in the [Heazlewood Group](http://heazlewood.chem.ox.ac.uk/) at the Department of Chemistry, University of Oxford (UK)
+- 2020: Brief stint as an optical engineer in the automotive industry
+
+Since 2021, Dr. Hejduk has been leading his own research in the field of sub-kelvin plasma. This involves the development of both planar and three-dimensional radio-frequency/microwave traps capable of confining electrons and ions simultaneously.
+
 
 
 News
 ======
 
+**1.12.2023 - Exciting Opportunity: Join Our Team as Two PhD Students to Contribute to the Advancement of Trapped Electron-Based Radiofrequency Detector Development!**
+
+**30.11.2023 - Major Boost: Czech Science Foundation Backs the Development of Radiofrequency Wave Detectors!**
+
 1.4.2023 - **Payman Mahmoudi joins our group as a postdoc.**
 
-07.09.2022 - Andrej and Ivan defended their bachelor theses and passed the state exams! Congratulations Bc. Rendek and Bc. Hudák!
-
-01.03.2022 - Two PhD students, Niklas Lausti and Vineet Kumar, join the group.
-
-16.02.2022 - [New article about a cryogenic ion trap](https://aip.scitation.org/doi/10.1063/5.0080458) published.
-
-24.09.2021 - [A series of four lectures](https://mhejduk.com/teaching/2021-ultracold-series) about ultracold physics and quantum control with guests from the University of Oxford are shceduled for October and November 2021.
-
-**I am always looking for enthusiastic students to work with!** See new bachelor thesis topics [here](https://physics.mff.cuni.cz/kfpp/php/bak-nove.php?langen=0).
 
