@@ -33,7 +33,7 @@ Since 2021, Dr. Hejduk has been leading his own research in the field of sub-kel
 News
 ======
 
-**1.12.2023 - Exciting Opportunity: Join Our Team as Two PhD Students to Contribute to the Advancement of Trapped Electron-Based Radiofrequency Detector Development!**
+**1.12.2023 - Exciting Opportunity: Join Our Team as a PhD Student to Contribute to the Advancement of Trapped Electron-Based Radiofrequency Detector Development!**
 
 **30.11.2023 - Major Boost: Czech Science Foundation Backs the Development of Radiofrequency Wave Detectors!**
 
