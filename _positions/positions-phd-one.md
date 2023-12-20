@@ -46,6 +46,8 @@ Join our collaborative team, where young theoreticians and experimentalists syne
 
 **Entrance Examination Dates:** June 17 and 18, 2024
 
+**Start of Studies:** October 2024
+
 **Charge for an Online Application:** 1500 CZK
 
 ## How to Apply
