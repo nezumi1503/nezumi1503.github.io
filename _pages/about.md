@@ -32,11 +32,11 @@ Since 2021, Dr. Hejduk has been leading his own research in the field of sub-kel
 
 News
 ======
+**20.3.2023 - [Opportunity](https://ec.cuni.cz/ECEN-128.html) to apply for the Marie Curie Sklodowska Postdoctoral Fellowship in my group through the European Centre of Charles University!** The description of the project is in [this file](https://cunicz-my.sharepoint.com/:x:/g/personal/62122368_cuni_cz/EcnkRgBxUxVHpf8FuvBYMR0B_sLmxQAwggjMbuHUio6Qow?e=c05efh).
 
 **1.12.2023 - Exciting Opportunity: Join Our Team as a PhD Student to Contribute to the Advancement of Trapped Electron-Based Radiofrequency Detector Development!**
 
 **30.11.2023 - Major Boost: Czech Science Foundation Backs the Development of Radiofrequency Wave Detectors!**
 
-1.4.2023 - **Payman Mahmoudi joins our group as a postdoc.**
 
 
