@@ -42,11 +42,11 @@ Join our collaborative team, where young theoreticians and experimentalists syne
 
 ## Application Process 2024/2025
 
-**Application Deadline:** March 31, 2024
+**Application Deadline:** November 30, 2024
 
-**Entrance Examination Dates:** June 17 and 18, 2024
+**Entrance Examination Dates:** January 15 and 16, 2025
 
-**Start of Studies:** October 2024
+**Start of Studies:** March 2025
 
 **Charge for an Online Application:** 1500 CZK
 
