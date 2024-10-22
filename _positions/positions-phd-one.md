@@ -36,7 +36,7 @@ We are seeking enthusiastic candidates with the following qualifications:
 
 ## Project Funding
 
-This project is generously funded for a duration of three years, with an additional fourth year secured by the department. The net income, including stipends, is approximately 29 000 CZK per month (approx. 1180 EUR). Please note that accommodation costs (approx. 6000 CZK in a campus) are not covered.
+This project is generously funded for a duration of three years, with an additional fourth year secured by the department. The net income, including stipends, is approximately 33 000 CZK per month. Please note that accommodation costs (approx. 6000 CZK in a campus) are not covered.
 
 Join our collaborative team, where young theoreticians and experimentalists synergize to significantly advance our understanding of this unparalleled quantum system. This is your chance to contribute to groundbreaking research that has never been realized before.
 
