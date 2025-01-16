@@ -56,8 +56,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -96,10 +94,10 @@ author:
   flickr           :
   facebook         : "UCPLabPrague"
   foursquare       :
-  github           : "nezumi1503"
+  github           : #"nezumi1503"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "flying_physicist_ultra"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "michal-hejduk-phd/"
@@ -109,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "FlyingPhysChem"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

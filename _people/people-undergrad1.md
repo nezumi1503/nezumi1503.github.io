@@ -1,9 +1,9 @@
 ---
-title: "Adam Jelínek"
+title: "David Motyčka"
 excerpt: "Undergraduate Student"
 collection: people
 ---
 
 # Research objectives
-Laser stabilization and data management
+Calcium oven development and ionization studies
 
