@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Research"
+description: "We employ trapped electrons in quantum sensing of microwave and radiofrequency signals for conversion to optical signals"
 permalink: /research/
 author_profile: true
 redirect_from:

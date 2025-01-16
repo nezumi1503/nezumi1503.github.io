@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Hejduk Group"
+title                    : "Hejduk Group - Ultracold Plasma Laboratory"
 title_separator          : "-"
 name                     : &name "Hejduk Group"
-description              : &description "ultracold plasma physics"
+description              : &description "Experimental research group studying ultracold plasma physics and quantum sensing with electron traps"
 url                      : https://nezumi1503.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nezumi1503/nezumi1503.github.io"
@@ -286,6 +286,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
