@@ -18,4 +18,4 @@ author_profile: true
 | --------         | ------ | ------------------------------------------------------------ |
 | [Albin Anthony](#)    | postdoc (2020-2022)   | Oxford Instruments (UK)                          |
 | [Payman Mahmoudi](https://www.jh-inst.cas.cz/jh_employee/mahmoudi)    | postdoc (2023-2024)   | J. Heyrovsky Institute of Physical Chemistry (Czechia)                          |
-| [Andrej Rendek](#)     | undergraduate (2022)   | Description of the item in the list                          |
+| [Andrej Rendek](#)     | undergraduate (2022)   |                           |
