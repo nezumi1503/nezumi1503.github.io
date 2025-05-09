@@ -113,7 +113,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  bluesky	   : "flyingphysicist.bsky.social" 
+  mastodon	   : "https://mathstodon.xyz/@flyingphysicist"
 
 # Reading Files
 include:

@@ -5,7 +5,7 @@ pkgs.mkShell {
     pkgs.ruby
     pkgs.bundler
     pkgs.nodejs
-    # pkgs.jekyll  # Optionally include Jekyll directly if you prefer
+    pkgs.jekyll  # Optionally include Jekyll directly if you prefer
   ];
 
   # Any commands here will run automatically when you enter the shell
