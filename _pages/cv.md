@@ -91,6 +91,12 @@ Career Breaks
 
 Selected Grants
 ======
+* [Czech Science Foundation](https://starfos.tacr.cz/projekty/GA24-10992S?query=wkoqaadbkwnq)
+  * Role: PI
+  * Title: Trapped Electrons and Ions Join Forces to Detect Single Photons
+  * Amount: 9 mil. CZK
+  * Period: 2023-2026
+
 * [PRIMUS Research Programme](https://cuni.cz/UKEN-558.html)
   * Role: PI
   * Title: New electron-ion trap for studies of particle dynamics in strongly coupled ultra-cold plasmas
