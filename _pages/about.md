@@ -33,6 +33,10 @@ Since 2021, Dr. Hejduk has been leading his own research in the field of sub-kel
 News
 ======
 
+**24.11.2025 - Our article on 3D-printed components for experimenting with trapped electrons was provisionally accepted for publication at Physica Scripta!** More news will follow. The preprint is available at [arXiv](https://arxiv.org/abs/2509.06537).
+
+**November 2025 - We have published multiple preprints at [arXiv](https://arxiv.org/a/hejduk_m_1.html). They deal with two-frequency trapping and production of electron/ion traps.**
+
 **2024 - Our microwave feeding system for point Paul traps is now [patented](https://isdv.upv.gov.cz/webapp/resdb.print_detail.det?pspis=PT/2023-439&plang=CS) in Czechia.** The application for the EU patent is pending.
 
 **30.11.2023 - Major Boost: Czech Science Foundation Backs the Development of Radiofrequency Wave Detectors!**
