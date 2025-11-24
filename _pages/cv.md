@@ -67,7 +67,7 @@ Teaching and Supervision of Students
 
 Courses Attended
 ======
-* [Leadership in Action](https://www.mpls.ox.ac.uk/training/training-and-development-blog/leadership-in-action)
+* Leadership in Action
 * An Introduction to Project Management
 * Time Management
 * Enterprising Researcher
