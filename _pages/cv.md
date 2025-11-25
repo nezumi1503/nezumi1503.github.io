@@ -98,7 +98,7 @@ Selected Grants
   * Role: PI
   * Title: Trapped Electrons and Ions Join Forces to Detect Single Photons
   * Amount: 9 mil. CZK
-  * Period: 2023-2026
+  * Period: 2024-2026
 
 * [PRIMUS Research Programme](https://cuni.cz/UKEN-558.html)
   * Role: PI
