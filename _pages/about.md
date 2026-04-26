@@ -33,6 +33,8 @@ Since 2021, Dr. Hejduk has been leading his own research in the field of sub-kel
 News
 ======
 
+**13.4.2026 - Our student Vineet Kumar has defended his doctoral thesis** and is on his way to his first postdoctoral appointment at the University of Osaka.
+
 **1.4.2026 - Article about testing trapping electrons in a double-frequency trap** [published in Physical Review A](https://journals.aps.org/pra/abstract/10.1103/q5kr-5dp7). We are getting ready for trapping electrons and ions together!
 
 **23.3.2026 - Article about fluorescence imaging of atomic cloud coming from a 3D-printed oven** published in Journal of Physics Communications. Read the open-access article [here](https://iopscience.iop.org/article/10.1088/2399-6528/ae4f4e).
