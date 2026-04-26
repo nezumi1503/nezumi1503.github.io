@@ -33,7 +33,7 @@ Since 2021, Dr. Hejduk has been leading his own research in the field of sub-kel
 News
 ======
 
-**24.11.2025 - Our article on 3D-printed components for experimenting with trapped electrons was provisionally accepted for publication at Physica Scripta!** More news will follow. The preprint is available at [arXiv](https://arxiv.org/abs/2509.06537).
+**9.12.2025 - Our article on 3D-printed components for experimenting with trapped electrons was published in Physica Scripta!** Read the open-access article [here](https://iopscience.iop.org/article/10.1088/1402-4896/ae24bd).
 
 **November 2025 - We have published multiple preprints at [arXiv](https://arxiv.org/a/hejduk_m_1.html). They deal with two-frequency trapping and production of electron/ion traps.**
 
