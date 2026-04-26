@@ -1,0 +1,13 @@
+---
+title: "Trapping of electrons and 40Ca+ ions in a dual-frequency Paul trap"
+collection: publications
+permalink: /publication/2026-PhysRevA
+excerpt: "We demonstrate the operation of a dual-frequency Paul trap and characterize its performance by storing either electrons or calcium ions while simultaneously applying two quadrupole fields which oscillate at Ωfast=2⁢𝜋×1.6GHz and Ωslow=2⁢𝜋×2MHz. The particles are loaded and stored in the trap under various conditions, followed by detection employing an electron multiplier tube. We find that tens of electrons or ions can be trapped for up to 10 ms and a small fraction remains trapped even after hundreds of milliseconds with no further signs of loss on this timescale. During dual-frequency operation we find that while the number of trapped electrons rapidly decreases with the increase of the Ωslow field amplitude, the number of trapped ions shows no dependence on the Ωfast field amplitude, as supported by our extensive numerical simulations. We aim to use a similar trap for synthesizing antihydrogen from antiprotons and positrons. Accordingly, we discuss open challenges such as the cotrapping of oppositely charged species and difficulties related to trap material and manufacturing techniques."
+date: 2026-4-1
+venue: 'Physical Review A'
+paperurl: 'https://journals.aps.org/pra/abstract/10.1103/q5kr-5dp7'
+citation: 'Mikhailovskii, V.; Sheth, N.; Qu, G.; Hejduk, M.; Lausti, N. V.; Satyajith, K. T.; Smorra, C.; Werth, G.; Yadav, N.; Yu, Q.; Matthiesen, C.; Häffner, H.; Schmidt-Kaler, F.; Bekker, H.; Budker, D. Trapping of Electrons and 40Ca+ Ions in a Dual-Frequency Paul Trap. Phys. Rev. A 2026, 113 (4), 043102. https://doi.org/10.1103/q5kr-5dp7.'
+---
+
+
+[Download paper here](https://journals.aps.org/pra/abstract/10.1103/q5kr-5dp7).
